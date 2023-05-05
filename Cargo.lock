@@ -500,6 +500,7 @@ dependencies = [
  "pallet-identity",
  "pallet-multisig",
  "pallet-precompile-dapps-staking",
+ "pallet-proxy",
  "pallet-session",
  "pallet-sudo",
  "pallet-timestamp",
